@@ -1,1 +1,1 @@
-testime kuidas see värk siin toimib
+testime kuidas see värk toimib
